@@ -16,4 +16,6 @@
 ### 4. Install kazam and solve black screen problem
         run command - 'sudo apt install kazam',
         then , 'sudo nano /etc/gdm3/custom.conf',
+        #WaylandEnable=True 
+
         Finally , 'restart' your pc .
