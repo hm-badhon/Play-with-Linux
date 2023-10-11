@@ -1,0 +1,20 @@
+'Abu Bakar D3 unicode.otf'           'Lipika Azhari Light.otf'
+ AdorshoLipi_20-07-2007.ttf           Lohit_14-04-2007.ttf
+'Akash Unicode.otf'                  'Mahfuj Madhobilota.otf'
+ AponaLohit.ttf                      'Mahfuj Madina.otf'
+'Aporahno Italic.otf'                 Mamun-turio.otf
+ Bangla.ttf                          'Manarah Unicode.otf'
+ BenSenHandwriting.ttf               'masbik hamalay.otf'
+ BenSen.ttf                          'Matralata Unicode.otf'
+'Chitrok Unicode.otf'                'MI. T Unicode.otf'
+'Comic Bengali.otf'                  'Mouri Unicode.otf'
+'Fizz Unicode.otf'                   'muhuri unicode.otf'
+ Godhuli.otf                          Nikosh.ttf
+'Hasnahena Unicode.otf'              'Oli Unicode.otf'
+'Hostoshoily Unicode.otf'            'Rajanigandha Unicode.otf'
+'Kachua Calligraphy Unicode.otf'     'Soudamini Unicode.otf'
+'Kaiyum Lipi Unicode.otf'            'Tamalika Unicode.otf'
+ kalpurush.ttf                       'TEESHTA UNICODE.otf'
+'Khalid-Miarhat-Unicode Italic.otf'  'Ullash Brush.otf'
+ Khalid-Miarhat-Unicode.otf          'UN Bangla Unicode.otf'
+'Lipika Ajhari Bold.otf'
