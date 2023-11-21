@@ -19,3 +19,4 @@
         #WaylandEnable=True 
 
         Finally , 'restart' your pc .
+### 5. Compare two files
